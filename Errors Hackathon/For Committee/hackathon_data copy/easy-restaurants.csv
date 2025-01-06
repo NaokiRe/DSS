@@ -1,0 +1,51 @@
+Rank,Restaurant,Location,Sales,YOY_Sales,Units,YOY_Units,Unit_Volume,Franchising
+38,Culinary Dropout,"Scottsdale, Ariz.",105,20.8%,7,16.7%,1300,No
+19,Hawkers Asian Street Fare,"Orlando, Fla.",97,30.0%,7,40.0%,3200,No
+34,Boqueria,"New York, Eagles",90,22.0%,7,16.7%,1700,No
+21,Bulla Gastrobar,"Doral, Fla.",77,28.2%,8,14.3%,3000,No
+43,Spitz Mediterranean Street Food,"Los Angeles, Calif.",76,18.8%,11,10.0%,800,No
+15,"""Original ChopShop""","Plano, Texas",71,32.5%,12,20.0%,3600,No
+23,The Little Beet,"New York, Eagles",69,26.5%,12,33.3%,2800,No
+49,StoneFire Grill,"Agoura Hills, Calif.",63,16.0%,13,8.3%,200,No
+41,Blue Sushi Sake Grill,"Omaha, Neb.",60,19.5%,14,16.7%,1000,No
+25,"""By Chloe""","New York, Eagles",50,25.6%,14,7.7%,2600,No
+39,Condado Tacos,"Columbus, Ohio",50,19.9%,15,15.4%,1200,No
+26,Sugarfire Smokehouse,"Olivette, Mo.",48,25.4%,15,15.4%,2500,No
+44,Tacos 4 Life,"Conway, Ark.",46,18.4%,16,6.7%,700,No
+48,Super Duper Burgers,"San Francisco, Calif.",44,16.9%,16,14.3%,300,No
+10,"""Joella's Hot Chicken""","Louisville, Ky.",41,35.5%,17,30.8%,4100,Yes
+8,Melt Shop,"New York, Eagles",38,39.6%,19,35.7%,4300,Yes
+36,Surcheros,"Douglas, Ga.",37,21.3%,20,17.6%,1500,No
+40,"""The Flying Biscuit Cafe""","Atlanta, Ga.",36,19.5%,21,16.7%,1100,No
+3,Slapfish - mmm tasty,"Huntington Beach, Calif.",35,81.0%,21,90.9%,4800,Yes
+29,Dos Toros Taqueria,"New York, Eagles",35,24.0%,22,10.0%,2200,No
+35,"""Quickway Japanese Hibachi""","Fairfax, Va.",33,21.4%,25,19.0%,1600,No
+46,LA Crawfish,"McAllen, Texas",32,17.6%,25,13.6%,500,No
+31,The Lost Cajun,"Frisco, Texas",31,23.0%,26,4.0%,2000,No
+1,Evergreens - mmm tasty,"Seattle, Wash.",28,130.5%,26,116.7%,5000,Yes
+37,Famous Toastery,"Charlotte, N.C.",27,21.2%,27,8.0%,1400,No
+30,"""The Pizza Press""","Anaheim, Calif.",27,23.7%,27,22.7%,2100,No
+50,"""Gus's World Famous Fried Chicken""","Memphis, Tenn.",26,14.4%,28,7.7%,100,No
+28,Bubbakoo's Burritos,"Wall Township, N.J.",26,24.3%,31,14.8%,2300,No
+45,"""Pita Mediterranean Street Food""","Fairburn, Ga.",25,17.8%,32,10.3%,600,No
+20,"""Maple Street Biscuit Co.""","Orange Park, Fla.",25,28.9%,33,10.0%,3100,No
+47,&pizza,"Washington, D.C.",22,17.1%,35,9.4%,400,No
+16,Rapid Fired Pizza,"Kettering, Ohio",21,32.2%,35,29.6%,3500,No
+7,The Simple Greek - mmm tasty,"Blue Bell, Pa.",21,52.5%,36,33.3%,4400,Yes
+27,Bibibop Asian Grill,"Columbus, Ohio",20,24.6%,37,23.3%,2400,No
+32,Just Salad,"New York, Eagles",19,22.7%,38,26.7%,1900,No
+11,Eggs Up Grill,"Spartanburg, S.C.",17,35.4%,41,36.7%,4000,No
+33,Jeni's Splendid Ice Creams,"Columbus, Ohio",16,22.4%,44,22.2%,1800,No
+4,Clean Eatz - mmm tasty,"Wilmington, N.C.",16,79.7%,46,58.6%,4700,Yes
+14,Bluestone Lane,"New York, Eagles",15,33.0%,48,37.1%,3700,No
+12,Dog Haus,"Pasadena, Calif.",15,34.5%,50,42.9%,3900,No
+5,"""Pokeworks"" - mmm tasty","Irvine, Calif.",14,77.1%,50,56.3%,4600,Yes
+9,Creamistry,"Yorba Linda,  Calif.",14,36.8%,60,27.7%,4200,Yes
+13,Teriyaki Madness,"Denver, Colo.",13,34.1%,63,65.8%,3800,No
+24,Joe & The Juice,"New York, Eagles",12,25.9%,69,25.5%,2700,No
+17,Ike's Love & Sandwiches,"San Francisco, Calif.",12,30.8%,71,29.1%,3400,No
+6,Playa Bowls - mmm tasty,"Belmar,  N.J.",11,62.9%,76,28.8%,4500,Yes
+18,Vitality Bowls,"San Ramon, Calif.",8,30.1%,77,24.2%,3300,No
+22,Duck Donuts,"Mechanicsburg, Pa.",7,28.0%,90,16.9%,2900,No
+42,The Human Bean,"Medford, Ore.",7,19.0%,97,19.8%,900,No
+2,Clean Juice - mmm tasty,"Charlotte, N.C.",7,121.9%,105,94.4%,4900,Yes
