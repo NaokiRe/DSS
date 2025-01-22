@@ -1,29 +1,31 @@
 # Simple summary of each week
 
-## Week 1 - Introduction to ML and Reinforcement Learning
-
+## Week 2 - Introduction to ML and Reinforcement Learning
+(DONE)
 - Go over basics of ML - supervised, unsupervised, reinforcement learning
 - Code a simple Q learning model from scratch
 
-## Week 2 - Linear Regression
-
+## Week 3 - Linear Regression
+(DONE)
 - concept of loss function, gradient descent
 - code a simple linear regression model from scratch
 
-## Week 3 - Decision Trees and Random Forest
+## Week 4 - Decision Trees and Random Forest
+(DONE)
 
-## Week 4 - K-means Clustering and KNN 
+## Week 5 - K-means Clustering and KNN 
+(FYR - TBC)
 
-## Week 5 - Practical K-means with data interpretation
+## Week 6 - Data Pre-processing and Visualisation
+(50%)
 
-## Week 6 - Data Pre-processing
+## Week 7 - Practical K-means with data interpretation
+(DONE)
 
-## Week 7 - Ensemble Methods
+## Week 8 - Ensemble Methods
+(25%)
 
-## Week 8 - HyperParameter Tuning
-
-## Week 9 - Neural Networks 
-
-- Vectorisation, Multi-Layer backpropagation
+## Week 9 - HyperParameter Tuning
+(FYR - TBC)
 
 ## Week 10 - Hackathon
